@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appcontrolefinanceiro</string>
+    <string name="app1">Titulo</string>
+    <string name="app2">Descrição</string>
+    <string name="app3">Valor</string>
+    <string name="app4">Data</string>
+    <string name="app5">Categoria</string>
+</resources>
