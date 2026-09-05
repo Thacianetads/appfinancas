@@ -3,6 +3,7 @@
 Uma aplicação Android desenvolvida em Kotlin para ajudar no controle e na gestão financeira pessoal de forma simples e intuitiva.
 
 📱 Sobre o Projeto
+
 O app de Controle de Finanças permite que os usuários registrem suas movimentações financeiras de forma rápida e organizada, ajudando a manter o orçamento pessoal em dia.
 
 ⚙️ Funcionalidades principais:
